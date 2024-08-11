@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// String - Program to show the occurances of character
+// String(Hash) - Program to show the appears of character
 
 int main(){
     string s;
